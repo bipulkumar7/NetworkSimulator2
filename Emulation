@@ -1,3 +1,4 @@
+#Before running this programe make sure you have installed ns2 with emulation, with pcap library files.
 # em2.tcl - test emulation
 # be careful here, as the tap agents will
 # send out whatever they are given
