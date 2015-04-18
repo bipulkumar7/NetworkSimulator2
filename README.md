@@ -14,4 +14,4 @@ To know more about Emulation go here.
 * I am mainly focused on the area of emulation.
 
 ### Major Project
-* My major project was based on Emulation. where i had emulate TCP/IP packet between two host computer running on same network. The TCL code is same which is found by default on ns-allinone
+* My major project was based on Emulation. where i had emulate TCP/IP packet between two host computer running on same network. The TCL code is same which is found by default on ns-allinone-2.35 "Alefiya Hussain and Ankur Sheth"
