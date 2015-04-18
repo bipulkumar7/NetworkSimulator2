@@ -8,10 +8,14 @@ To know more about Emulation go here.
 [Emulation](http://www.isi.edu/nsnam/ns/ns-emulation.html)
 
 ===================================================================
-###About NetworkSimulator-2 in my career.
+### About NetworkSimulator-2 in my career.
 * I had started working on this project during my academic year, that was near around november 2012. Where i had used NS-2 for my minor project, and NS-2 with emulation for major project.
 * I have finally found github as a medium to illustrate and show my work for NS-2 , And also i would like to welcome other interested people to work on my project.
 * I am mainly focused on the area of emulation.
 
 ### Major Project
 * My major project was based on Emulation. where i had emulate TCP/IP packet between two host computer running on same network. The TCL code is same which is found by default on ns-allinone-2.35 "Alefiya Hussain and Ankur Sheth"
+
+### Minro Project
+* My minro project was based on simply TCP/IP simulation, with specific nodes.
+
